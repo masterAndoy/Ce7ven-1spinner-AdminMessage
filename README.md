@@ -1,1 +1,1 @@
-# Ce7ven-1spinner-AdminMessage
+Ce7ven-1spinner-AdminMessage Only
