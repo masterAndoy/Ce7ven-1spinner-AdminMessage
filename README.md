@@ -1,1 +1,5 @@
-Ce7ven-1spinner-AdminMessage Only
+{
+"SendMessage":5,
+"MyMessage":
+"Server Update Dec 21-2021 ..."
+}
